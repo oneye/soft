@@ -1,0 +1,802 @@
+<address>soft.oneye-project.org</address>
+<path></path>
+<packages>
+	<package>
+		<name>eyeUserList</name>
+		<filename>packages/eyeUserList.eyepackage</filename>
+		<category>Administration</category>
+		<version>1.6</version>
+		<description>A simple desktop application that lists all users on an internal eyeOS network.</description>
+		<author>Sahb Itar</author>
+		<license>AGPL</license>
+		<size>3247</size>
+		<key>1bc396c1b6d98282827be7d8a0a7524b</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Administration</type>
+	</package>
+	<package>
+		<name>h3oEyeAppsInstaller</name>
+		<filename>packages/h3oEyeAppsInstaller.eyepackage</filename>
+		<category>Administration</category>
+		<version>1.6</version>
+		<description>Allows root to install eyeOS-Apps.org hosted applications without having to down and upload it.</description>
+		<author>Thorsten Zoerner</author>
+		<license>AGPL</license>
+		<size>8990</size>
+		<key>5e6eab9e535a49ca039b95919bc73630</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Administration</type>
+	</package>
+	<package>
+		<name>massAccount</name>
+		<filename>packages/massAcount.eyepackage</filename>
+		<category>Administration</category>
+		<version>1.7</version>
+		<description>Massive account registration tool.</description>
+		<author>Alejandro Fiestas</author>
+		<license>AGPL</license>
+		<size>2157</size>
+		<key>61fb7c764fcc1ccbbb61062ecdb26132</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Administration</type>
+	</package>
+	<package>
+		<name>userInfo</name>
+		<filename>packages/userInfo.eyepackage</filename>
+		<category>Administration</category>
+		<version>1.6</version>
+		<description>userInfo is a tiny application that displays user information of the current user in the system, like his privileges, his username, and his groups.</description>
+		<author>Jose Carlos Norte</author>
+		<license>AGPL</license>
+		<size>1296</size>
+		<key>4a512fe49ceb1c2e3df0652c2c27423a</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Administration</type>
+	</package>
+	<package>
+		<name>eyeLock 3D</name>
+		<filename>packages/eyelock3d.eyepackage</filename>
+		<category>Desktop</category>
+		<version>1.6</version>
+		<description>eyeLock 3D is a session locker that allows you to lock your session if you need to leave your eyeOS alone for a while, and you do not want that other people with access to your computer looks at your session, or touch nothing.</description>
+		<author>Jose Carlos Norte</author>
+		<license>AGPL</license>
+		<size>16288</size>
+		<key>dc4b9f9a043fe332208f33f5514abe0f</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Desktop</type>
+	</package>
+	<package>
+		<name>eyeSnow</name>
+		<filename>packages/eyeSnow.eyepackage</filename>
+		<category>Desktop</category>
+		<version>1.6</version>
+		<description>It's snowing in your eyeOS Desktop!</description>
+		<author>Pau Gracia-Milá</author>
+		<license>AGPL</license>
+		<size>3919</size>
+		<key>8ff1891f152bbaf515b83f90597ae27e</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Desktop</type>
+	</package>
+	<package>
+		<name>h3oUpload</name>
+		<filename>packages/h3oUpload.eyepackage</filename>
+		<category>Desktop</category>
+		<version>1.6</version>
+		<description>Drag and Drop upload implemented in Java.</description>
+		<author>Thorsten Zoerner</author>
+		<license>AGPL</license>
+		<size>24924</size>
+		<key>e8542a167478279fe07ffc98c7ce734f</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Desktop</type>
+	</package>
+	<package>
+		<name>eyePlot</name>
+		<filename>packages/eyePlot.eyepackage</filename>
+		<category>Education</category>
+		<version>1.6</version>
+		<description>eyePlot is a plotting application that creates graphics from a math functions.</description>
+		<author>Jose Carlos Norte</author>
+		<license>AGPL</license>
+		<size>10598</size>
+		<key>8e9d1afeaab862e434dd3f7d5a4f962b</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Education</type>
+	</package>
+	<package>
+		<name>eyeGamesGallery</name>
+		<filename>packages/eyeGamesGallery.eyepackage</filename>
+		<category>Games</category>
+		<version>1.6</version>
+		<description>It consists of a set of three applications that allows the eyeOS users play flash games remotely without consuming the server's bandwidth.</description>
+		<author>Daniel Gil</author>
+		<license>AGPL</license>
+		<size>4939</size>
+		<key>af59b36df3ea3d6b981c30fe9d2094a9</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Game</type>
+	</package>
+	<package>
+		<name>eyeCQ</name>
+		<filename>packages/eyeCQ.eyepackage</filename>
+		<category>Internet</category>
+		<version>1.6</version>
+		<description>eyeCQ is a web ICQ client integrated into eyeOS.</description>
+		<author>Raphael Wintrich</author>
+		<license>AGPL</license>
+		<size>19456</size>
+		<key>02be930c42ab73b85ea52d071c2e88f0</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Internet</type>
+	</package>
+	<package>
+		<name>eyeMee</name>
+		<filename>packages/eyeMee.eyepackage</filename>
+		<category>Internet</category>
+		<version>1.6</version>
+		<description>IM application using the Meebo portal.</description>
+		<author>Daniel Gil</author>
+		<license>AGPL</license>
+		<size>1218</size>
+		<key>92f5a58437f3f01453741283ac1e2184</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Internet</type>
+	</package>
+	<package>
+		<name>eyePass</name>
+		<filename>packages/eyePass.eyepackage</filename>
+		<category>Internet</category>
+		<version>1.6</version>
+		<description>eyePass offers direct access to all integrated websites: Google, Yahoo, Live, eyeOS, MySpace and more ...</description>
+		<author>Edouard Daubin</author>
+		<license>AGPL</license>
+		<size>3317</size>
+		<key>f91438f128379801b78482d2ff0921e8</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Internet</type>
+	</package>
+	<package>
+		<name>h3oPass 4 Clipperz CE</name>
+		<filename>packages/h3oPass.eyepackage</filename>
+		<category>Internet</category>
+		<version>1.6</version>
+		<description>h3oPass 4 Clipperz CE allows users to manage passwords, safenotes or other private data in there eyeOS account. This application utilized Clipperz Community Edition.</description>
+		<author>Thorsten Zoerner</author>
+		<license>AGPL</license>
+		<size>8333</size>
+		<key>100e03609e8eab566bb300a81da16801</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Application</type>
+	</package>
+	<package>
+		<name>h3oProxy</name>
+		<filename>packages/h3oProxy.eyepackage</filename>
+		<category>Internet</category>
+		<version>1.6</version>
+		<description>h3oProxy brings proxy like behavior to your eyeOS server.</description>
+		<author>Thorsten Zoerner</author>
+		<license>AGPL</license>
+		<size>34377</size>
+		<key>b7f31a2d2a3c6e192151a49793461d79</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Application</type>
+	</package>
+	<package>
+		<name>h3oWiki</name>
+		<filename>packages/h3oWiki.eyepackage</filename>
+		<category>Internet</category>
+		<version>1.6</version>
+		<description>Allows you to run a light weight wiki service on your eyeOS system. Each user is able to modify pages. The system does not require a database as it writes static file.</description>
+		<author>Thorsten Zoerner</author>
+		<license>AGPL</license>
+		<size>23451</size>
+		<key>89da9f17fb56ce729a90727ec052c2ca</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Application</type>
+	</package>
+	<package>
+		<name>eyeTerre</name>
+		<filename>packages/eyeTerre.eyepackage</filename>
+		<category>Multimedia</category>
+		<version>1.6</version>
+		<description>World maps application using the FlashEarth.com portal.</description>
+		<author>Daniel Gil</author>
+		<license>AGPL</license>
+		<size>1207</size>
+		<key>c0279ad63b42f363e6ca597768c66d4c</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Multimedia</type>
+	</package>
+	<package>
+		<name>eyeFinance</name>
+		<filename>packages/eyeFinance.eyepackage</filename>
+		<category>Office</category>
+		<version>1.6</version>
+		<description>Keep track of your accounting: Finance tracker.</description>
+		<author>Nicu Calcea &amp; Nick McMillen</author>
+		<license>AGPL</license>
+		<size>13127</size>
+		<key>79fe62d866900bbc73fbed670165adf8</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Office</type>
+	</package>
+	<package>
+		<name>eyeShow</name>
+		<filename>packages/eyeShow.eyepackage</filename>
+		<category>Office</category>
+		<version>1.7</version>
+		<description>eyeShow is a presentation application where you can make slides, with texts, colorize your text, change the size, the font, the style.</description>
+		<author>Edouard Daubin</author>
+		<license>AGPL</license>
+		<size>168742</size>
+		<key>08f471c8ca0140ac39c073b4ad62f31c</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Office</type>
+	</package>
+	<package>
+		<name>eyeXMLviewer</name>
+		<filename>packages/eyeXMLviewer.eyepackage</filename>
+		<category>Other Apps</category>
+		<version>1.6</version>
+		<description>eyeXMLviewer is a xml viewer app, which opens xml files in a visual tree.</description>
+		<author>Jose Carlos Norte</author>
+		<license>AGPL</license>
+		<size>1723</size>
+		<key>70423ae0bdd0274a2388d634a9cc893d</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Other App</type>
+	</package>
+	<package>
+		<name>Black and White</name>
+		<filename>packages/blackandwhite.eyepackage</filename>
+		<category>Themes</category>
+		<version>1.6</version>
+		<description>The default eyeOS theme in grey.</description>
+		<author>Fubi</author>
+		<license>AGPL</license>
+		<size>536942</size>
+		<key>6778c84f07adf8cec34475a6a7b6c85c</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Theme</type>
+	</package>
+	<package>
+		<name>Clearshine Pearl</name>
+		<filename>packages/Clearshine-Pearl.eyepackage</filename>
+		<category>Themes</category>
+		<version>1.6</version>
+		<description>It is based on an Open Menu+ theme.</description>
+		<author>Hunter Perrin</author>
+		<license>AGPL</license>
+		<size>551128</size>
+		<key>b6b2ec0bef3a61ee0d7e850c204a1398</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Theme</type>
+	</package>
+	<package>
+		<name>eyeGnome</name>
+		<filename>packages/eyeGnome.eyepackage</filename>
+		<category>Themes</category>
+		<version>1.6</version>
+		<description>This is an eyeOS theme which looks like Gnome.</description>
+		<author>Simon Thiel</author>
+		<license>AGPL</license>
+		<size>539324</size>
+		<key>1fbf575d7046bdfa39733010bdfad724</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Theme</type>
+	</package>
+	<package>
+		<name>eyeUbuntu</name>
+		<filename>packages/eyeUbuntu.eyepackage</filename>
+		<category>Themes</category>
+		<version>1.6</version>
+		<description>This is an eyeOS theme which looks like Ubuntu.</description>
+		<author>Simon Thiel</author>
+		<license>AGPL</license>
+		<size>1013543</size>
+		<key>b3f9e0d47c7a330e99b61fc31058ad95</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Theme</type>
+	</package>
+	<package>
+		<name>eyeVista</name>
+		<filename>packages/eyeVista.eyepackage</filename>
+		<category>Themes</category>
+		<version>1.6</version>
+		<description>This is an eyeOS theme which looks like Windows Vista.</description>
+		<author>Raphael Wintrich</author>
+		<license>AGPL</license>
+		<size>749751</size>
+		<key>988d924d868e63049a28a0784dccd82a</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Theme</type>
+	</package>
+	<package>
+		<name>Mac OS X</name>
+		<filename>packages/osxIcons.eyepackage</filename>
+		<category>Themes</category>
+		<version>1.6</version>
+		<description>This is an eyeOS theme which looks like Mac OS X.</description>
+		<author>Jose Carlos Norte</author>
+		<license>AGPL</license>
+		<size>697624</size>
+		<key>ce2c1be20eb6ccdd950d9c5836e9265f</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Theme</type>
+	</package>
+	<package>
+		<name>All-in-one compilation</name>
+		<filename>packages/translations/all-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>All translators</author>
+		<license>AGPL</license>
+		<size>1166452</size>
+		<key>3d632e2d6a93ab973bb2de94765a20bf</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>العربية (Arabic)</name>
+		<filename>packages/translations/ar-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Rami J. Ghazal</author>
+		<license>AGPL</license>
+		<size>27405</size>
+		<key>66fa7c4e25089bb64200ecd1c0ea1d1e</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Català (Catalan)</name>
+		<filename>packages/translations/ca-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Jordi Sànchez, Sandra Fernández &amp; Daniel Gil</author>
+		<license>AGPL</license>
+		<size>50330</size>
+		<key>2583e62a9dab81e83c91f0a402ca9828</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Česky (Czech)</name>
+		<filename>packages/translations/cs-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Peter Schiffer &amp; Patrik Votoček</author>
+		<license>AGPL</license>
+		<size>42551</size>
+		<key>64cf6a3faa84233c76a45fc08b4bbaa2</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Deutsch (German)</name>
+		<filename>packages/translations/de-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Lars Knickrehm</author>
+		<license>AGPL</license>
+		<size>63948</size>
+		<key>2141274fc32a9a862ac6684c96536cfd</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>dansk (Danish)</name>
+		<filename>packages/translations/da-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Steffen Hansen</author>
+		<license>AGPL</license>
+		<size>20391</size>
+		<key>bb055d979243b2faaa2cd41be404fa1b</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Ελληνικά (Greek)</name>
+		<filename>packages/translations/el-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Nikolaos Hatzygeorgiou &amp; Stavros Katsoulis</author>
+		<license>AGPL</license>
+		<size>31936</size>
+		<key>3220199e1bcb35cfd09920a0c4dbc6ec</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Español (Spanish)</name>
+		<filename>packages/translations/es-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>eyeOS Team</author>
+		<license>AGPL</license>
+		<size>40289</size>
+		<key>6c438478b0a151dba9d454f424731441</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>فارسی (Persian)</name>
+		<filename>packages/translations/fa-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Masoud Serpoushani &amp; Mohammad Abdoli Rad</author>
+		<license>AGPL</license>
+		<size>32654</size>
+		<key>14a187bf2ca2dd808d1f8f36fa68b7cb</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>suomen kieli (Finnish)</name>
+		<filename>packages/translations/fi-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Ville Perkkio</author>
+		<license>AGPL</license>
+		<size>30767</size>
+		<key>aed728ebd5fde8f19372e0f3439a46fb</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>français (French)</name>
+		<filename>packages/translations/fr-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Alexandre Mejat, Frédéric Delsemme, Francois Bocquet &amp; Anaël Ollier</author>
+		<license>AGPL</license>
+		<size>68580</size>
+		<key>1f4aa166dcb2d8903649672f3ca99c4e</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Galego (Galician)</name>
+		<filename>packages/translations/gl-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Eduar Garza</author>
+		<license>AGPL</license>
+		<size>33803</size>
+		<key>ef001f7fe78926155389005d8167ae4e</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>עברית (Hebrew)</name>
+		<filename>packages/translations/he-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Shalom Nehaisi</author>
+		<license>AGPL</license>
+		<size>35439</size>
+		<key>40e28b7aaea3f288173cad07eaa2797d</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Hrvatski (Croatian)</name>
+		<filename>packages/translations/hr-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Vanja Bunjevac</author>
+		<license>AGPL</license>
+		<size>14829</size>
+		<key>0067cacd7024164ef3cf11d5241f12dd</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Magyar (Hungarian)</name>
+		<filename>packages/translations/hu-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Szabó Zoltán</author>
+		<license>AGPL</license>
+		<size>51357</size>
+		<key>98bec934c394d6f3c4a0ba51549829e5</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Bahasa Indonesia (Indonesian)</name>
+		<filename>packages/translations/id-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Joko Frank Octo &amp; Hendryk B. Nugraha</author>
+		<license>AGPL</license>
+		<size>14746</size>
+		<key>131eafce0ccd5b7d8d2d1a96344c9666</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Italiano (Italian)</name>
+		<filename>packages/translations/it-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Eugenio Baldi, Julien Buratto &amp; Luca Ferrario</author>
+		<license>AGPL</license>
+		<size>40978</size>
+		<key>80b0af45f5132f337c6ea2fa9c69831d</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>日本語 (Japanese)</name>
+		<filename>packages/translations/ja-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Kazuya Masuda</author>
+		<license>AGPL</license>
+		<size>22460</size>
+		<key>81e619eef64d7d788a23716488ca4fbf</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>한국어 (Korean)</name>
+		<filename>packages/translations/ko-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Lee Gangmin</author>
+		<license>AGPL</license>
+		<size>21788</size>
+		<key>bcc42e24bc49c099968283ce50734172</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>lietuviu (Lithuanian)</name>
+		<filename>packages/translations/lt-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Tomas Tirlikas</author>
+		<license>AGPL</license>
+		<size>35473</size>
+		<key>affa343ca9caa35b865cc713459af294</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Dutch (Nederlands)</name>
+		<filename>packages/translations/nl-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Jan Lapidoth</author>
+		<license>AGPL</license>
+		<size>697624</size>
+		<key>ce2c1be20eb6ccdd950d9c5836e9265f</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>polski (Polish)</name>
+		<filename>packages/translations/pl-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Inspektor Sowa</author>
+		<license>AGPL</license>
+		<size>31243</size>
+		<key>3dfdacce2f9fbfea2550b30df6744517</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Portuguese (Brazil)</name>
+		<filename>packages/translations/pt-br-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Felipe Tavares, Antonio Brandão, Gian &amp; Márcio Cruz</author>
+		<license>AGPL</license>
+		<size>52621</size>
+		<key>5e774effec6bd1de95af4e19d99a934f</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Português (Portuguese)</name>
+		<filename>packages/translations/pt-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Daniel Sousa &amp; José Manuel Ruas</author>
+		<license>AGPL</license>
+		<size>53906</size>
+		<key>162b4d9a1e7f7ea764b61ed480980d26</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Romana (Romanian)</name>
+		<filename>packages/translations/ro-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Grizzly &amp; cadi</author>
+		<license>AGPL</license>
+		<size>22879</size>
+		<key>7cae9925358762e737e1a3e1c94df91f</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Русский (Russian)</name>
+		<filename>packages/translations/ru-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Pavel Maryanov &amp; Aleksey Tsutsei</author>
+		<license>AGPL</license>
+		<size>57160</size>
+		<key>528f3d1f0813341ba4e283ada559b0f3</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Slovencina (Slovak)</name>
+		<filename>packages/translations/sk-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>blackmoor</author>
+		<license>AGPL</license>
+		<size>27237</size>
+		<key>f3e534ef13d743e428f419beceb7e5d2</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Svenska (Swedish)</name>
+		<filename>packages/translations/sv-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Henrik Våglin</author>
+		<license>AGPL</license>
+		<size>31920</size>
+		<key>9b83de726b04aaddaeeb9feb02dc7a6d</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>ไทย (Thai)</name>
+		<filename>packages/translations/th-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Jakkraphan Saengseam</author>
+		<license>AGPL</license>
+		<size>22902</size>
+		<key>7939fae6cce684a9c4299ea87a6de522</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Türkçe (Turkish)</name>
+		<filename>packages/translations/tr-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Hasan Degismez</author>
+		<license>AGPL</license>
+		<size>38230</size>
+		<key>9f365ed34544c3b50a05858c583a75c0</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>Tiếng Việt (Vietnamese)</name>
+		<filename>packages/translations/vi-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Nguyen Dang Khoa</author>
+		<license>AGPL</license>
+		<size>18749</size>
+		<key>2837dd9e051db92d27e4815777203704</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+	<package>
+		<name>中文 (Simplified Chinese)</name>
+		<filename>packages/translations/zh-cn-system.eyepackage</filename>
+		<category>Translations</category>
+		<version>1.8.0.3 - 1</version>
+		<description>Last updated: February, 15 2009</description>
+		<author>Aron Xu &amp; HackerGene</author>
+		<license>AGPL</license>
+		<size>34007</size>
+		<key>1491df4cb50ef95574ac51db5c039ec3</key>
+		<dependencies></dependencies>
+		<suggestions></suggestions>
+		<type>Translation</type>
+	</package>
+</packages>
